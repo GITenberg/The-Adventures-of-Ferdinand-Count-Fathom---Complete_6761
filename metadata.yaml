@@ -1,10 +1,8 @@
 _repo: The-Adventures-of-Ferdinand-Count-Fathom---Complete_6761
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 6761/6761-h/images/f1-titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smollett, T. (Tobias)
@@ -28,6 +26,8 @@ description: "The Adventures of Ferdinand Count Fathom is a novel by Tobias Smol
   \ of Humphry Clinker.\nThe novel's elements of terror and the supernatural have\
   \ caused some historians of English literature to describe it as anticipating the\
   \ themes of the Gothic novel.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6761#The-Adventures-of-Ferdinand-Count-Fathom---Complete
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2004-09-09'
 gutenberg_type: Text
